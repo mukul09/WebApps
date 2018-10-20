@@ -1,0 +1,58 @@
+
+.wrapper{
+  background-color:white;
+  margin-left:10%;
+  margin-right:10%;
+  padding-top:5px;
+  padding-bottom:15px;
+}
+.heading{
+  color:white;
+  font-size:40px;
+  margin-top:10%;  
+}
+
+#footer{
+  position:relative;
+  bottom:0;
+  left:0;
+  color:white;
+}
+
+a{
+  font-family:Tinos;
+  color:black;
+}
+
+#random{
+  width:50%;
+  font-size:20px;
+  border: 2px solid;
+  background-color:white;
+  border-radius:4px;
+}
+button:focus {outline:0;}
+
+body{
+ font-family: Special Elite;
+}
+
+#tweetQuote{
+  width:50%;
+  font-family: Special Elite;
+ font-size:20px;
+  border: 2px solid;
+  background-color:white;
+  border-radius:4px;
+  box-shadow: none;
+ 
+}
+
+.fa-twitter-square{
+  margin-left:-5%;
+  margin-right:5px;
+ 
+  color:black;
+ font-size:25px;
+ 
+}
