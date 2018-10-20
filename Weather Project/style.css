@@ -1,0 +1,99 @@
+body {
+    background-image: url("https://cdn.theconversation.com/files/139426/wide_article/width1356x668/rthvy2wz-1474974362.jpg");
+  font-family:'Orbitron', sans-serif;
+}
+/*.heading{
+  margin-top:3%;
+  width:500px;
+  margin-left:auto;
+  margin-right:auto;
+}*/
+.calculator{
+  background-color:white;
+  width:350px;
+  height:430px;
+  margin-top:5%;
+  margin-left:auto;
+  margin-right:auto;
+  border-radius:5%;
+}
+
+#entry-text{
+  background-color:#1a1a1a;
+  width:90%;
+  height:10%;
+  margin-left:5%;
+  margin-right:5%;
+  border-radius:6px;
+  color:white;
+  text-align:right;
+  box-shadow:0px 5px 10px rgb(26,26,26);
+}
+
+.answer{
+  font-size:25px;
+  margin-bottom:-4px;
+  padding-top:2%;
+  margin-left:3%;
+  margin-right:3%;
+  padding-right:3%;
+}
+
+/*.history{
+font-size:20px; 
+  padding-right:3%;
+}*/
+
+button{
+  width:50px;
+  height:50px;
+  margin-left:3%;
+  margin-right:3%;
+  margin-top:3%;
+  border-radius:6px;
+  background-color:#1a1a1a;
+  color:white;
+  box-shadow:0px 10px 10px 0px rgb(26,26,26);
+  font-size:18px;
+}
+
+button:focus {outline:0;}
+
+.buttons{
+ margin-left:9%;
+  margin-right:auto;
+
+}
+
+/*#zeroButton{
+  width:123px;
+}*/
+
+div.fixed {
+    position: fixed;
+    
+}
+
+#entry-text p{
+  white-space: nowrap;
+  overflow: hidden;
+ /*text-overflow: ellipsis;*/
+}
+
+.heading{
+  padding-top:3%;
+}
+
+.answer { 
+    word-spacing: 30px;
+}
+
+footer{
+  margin-top:4%;
+  margin-left:16%;
+  font-style:solid;
+}
+
+a{
+  color:blue;
+}
