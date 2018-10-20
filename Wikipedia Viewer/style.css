@@ -1,0 +1,76 @@
+#main{
+  margin-top:30px;
+}
+#search{
+  margin-top:20px;
+}
+
+h1{
+  font-family:acme;
+  font-size:60px;
+}
+
+body{
+  font-family:acme;
+}
+button,input{
+  font-size:18px;
+}
+
+.btn{
+  font-size:18px;
+}
+
+#results{
+  margin-left:40px;
+  margin-right:40px;
+  
+}
+
+a{
+  color:black; 
+  display:block;
+}
+
+.single{
+  width:100%;
+    background-color:#CCC;  
+}
+
+#randombtn{
+  background-color:black;
+  color:white;
+  margin-top:20px;
+  
+}
+#randombtn:hover{
+  background-color:black;
+  box-shadow: 5px 5px 5px grey;
+}
+
+#search{
+  border-style:solid;
+}
+
+h1,footer{
+  color:black;
+}
+
+#footer{
+  position:relative;
+ bottom:-100px;
+ left:0;
+  right:0;
+  text-align:center;
+  
+}
+
+a, a:hover, a:active, a:visited, a:focus {
+    text-decoration:none;
+}
+
+a:hover{
+  color:blue;
+}
+
+input:focus {outline:0;}
